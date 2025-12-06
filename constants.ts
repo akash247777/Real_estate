@@ -1,5 +1,5 @@
 // IMPORTANT: Replace with your actual Google Maps API key
-export const GOOGLE_MAPS_API_KEY = "AIzaSyD458IF0Fra6DQ9XHo2SFPC0eVT7ESPtoA";
+export const GOOGLE_MAPS_API_KEY = "";
 
 export const REALTY_API_URL = "https://api.realtyfeed.com/reso/odata/Property?&$orderby=RFModificationTimestamp desc&$top=200&$count=true";
 export const REALTY_TOKEN ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NTM1ZDVmZjdkYTQ0OWI4ODU2NDFlOTA3YTYyMmYxMyIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXBpL3JlYWQiLCJleHAiOjE3NjQ5NTM4NTUsImp0aSI6IjA5YWZmN2QxLTU1YzktNDdmYi04YmUyLTc0YzMzOWUyZjBmMCIsImNsaWVudF9pZCI6IjY1MzVkNWZmN2RhNDQ5Yjg4NTY0MWU5MDdhNjIyZjEzIn0.A7VpN3U1yZ-exs1g8KrLSZgzWHZKtsSub-IclHL4qpU";
