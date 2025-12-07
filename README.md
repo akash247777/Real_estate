@@ -55,6 +55,10 @@ Real_estate/
 ├── package.json
 └── requirements.txt
 ```
+Architecture Diagram
+
+<img width="1308" height="1990" alt="diagram-export-7-12-2025-2_11_47-pm" src="https://github.com/user-attachments/assets/3c5ef23c-4771-44a3-a2f8-58ccaaf0a1a8" />
+
 
 ## 🛠️ Tech Stack
 - **Frontend**: `react`, `vite`, Tailwind CDN, Font Awesome CDN
