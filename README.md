@@ -1,6 +1,12 @@
 # 🏠 RealtyFeed Explorer
 
 A modern real estate explorer built with React + Vite on the frontend and a Flask API backend. It fetches property listings, supports natural-language search powered by Gemini, and overlays rich location insights using Google Maps services.
+# DEMO
+
+
+https://github.com/user-attachments/assets/54cbe73d-16ca-4268-b503-79815e1fe44d
+
+
 
 ## ✨ Features
 - 🔍 Natural-language search for properties via `/api/search` (Gemini → SQL).
